@@ -11,8 +11,6 @@ boolean isMale=true;
 System.out.println(employeeAge);
 System.out.println(employeeName);
 System.out.println(designation);
-System.out.println(emailId);
-System.out.println(employeeExperience);
 System.out.println(isMale);
 
 
